@@ -142,3 +142,11 @@ button {
 .callingbutton {
   border: solid;
 }
+
+.footer {
+  background-color: #1F2937;
+  font-size: 18px;
+  color: #E5E7EB;
+  text-align: center;
+  padding: 35px 250px;
+}
