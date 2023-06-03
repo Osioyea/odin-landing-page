@@ -26,5 +26,38 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 16px 160px;
+  padding: 16px 250px;
+}
+
+.hero {
+  background-color: #1F2937;
+  padding: 100px 250px;
+  display: flex;
+  gap: 20px;
+}
+
+.herocontainer {
+  width: 450px;
+}
+
+.herobig {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;
+}
+
+.herosmall {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+
+button {
+  background-color: #3882F6;
+  font-size: 18px;
+  font-weight: bold;
+  color: #F9FAF8;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 32px;
+  margin: 16px 0px;
 }
