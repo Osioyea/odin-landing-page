@@ -113,3 +113,32 @@ button {
   font-size: 30px;
   text-align: end;
 }
+
+.action {
+  padding: 120px 250px;
+}
+
+.actionbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3882F6;
+  padding: 30px 120px;
+  border-radius: 10px;
+}
+
+.calling {
+  font-size: 23px;
+  color: #F9FAF8;
+  font-weight: bold;
+}
+
+.callingsmall {
+  font-size: 18px;
+  color: #E5E7EB;
+  font-weight: lighter;
+}
+
+.callingbutton {
+  border: solid;
+}
