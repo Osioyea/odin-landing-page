@@ -92,3 +92,24 @@ button {
   border-radius: 20px;
   margin-bottom: 10px;
 }
+
+.quote {
+  background-color: #E5E7EB;
+  display: flex;
+  justify-content: center;
+  padding: 120px;
+}
+
+.quotetext {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1F2937;
+  width: 830px;
+}
+
+.signature {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: end;
+}
